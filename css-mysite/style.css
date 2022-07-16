@@ -1,0 +1,153 @@
+body {
+    background-color: floralwhite;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1rem;
+    margin: 0;
+}
+
+h1 {
+    margin: 40px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    color: #00836f;
+    font-weight: normal;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #407a71;
+}
+
+hr {
+    margin: auto;
+    border-top: dotted 4px;
+    color: rgb(99, 129, 120);
+    width: 10%;
+}
+
+.top-container {
+    background-color: #d7f4e6;
+    position: relative;
+    padding-top: 90px;
+}
+
+.paras {
+
+    margin: 10px 15% 30px 15%;
+
+
+}
+
+.middle-container h2 {
+    color: #00836f;
+}
+
+.profile {
+
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.profile-pic {
+    height: 350px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.span1 {
+    text-decoration: underline;
+}
+
+.mountain {
+    width: 80%;
+    position: relative;
+    margin-bottom: 0;
+    left: auto;
+    right: auto;
+}
+
+.topcloud {
+    height: 9%;
+    width: 20%;
+    position: absolute;
+    right: 17%;
+    top: 10%;
+}
+
+.bottomcloud {
+    height: 9%;
+    width: 20%;
+    position: absolute;
+    left: 14%;
+    bottom: 40%;
+
+}
+
+.middle-container {
+    background-color: #ECE5C7;
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 60px;
+
+}
+
+.bottom-container {
+    position: relative;
+    margin: 0 auto;
+    color: white;
+    background-color: #748DA6;
+}
+
+.skills {
+    margin-top: 30px;
+}
+
+.skill-row {
+    width: 65%;
+    text-align: left;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.design {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.coffee {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.coffee-des {
+    margin-bottom: 30px;
+}
+
+.f-img {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    margin: 0 auto 10px;
+    padding: 20px 10px 0;
+}
+
+.para1 {
+    position: relative;
+    bottom: 10px;
+}
+
+.copyright {
+    color: white;
+    font-size: .8rem;
+}
